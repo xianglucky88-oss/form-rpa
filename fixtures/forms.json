@@ -1,0 +1,4 @@
+[
+  {"record_id":"FORM-001","customer_code":"c-100","amount":1200,"submitted_at":"2026-11-10","contact":"ops@example.invalid","region":"CN"},
+  {"record_id":"FORM-001","customer_code":"C-100","amount":1200,"submitted_at":"2026-11-10","contact":"ops@example.invalid","region":"CN"}
+]

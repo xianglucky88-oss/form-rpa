@@ -1,0 +1,12 @@
+[project]
+name = "form-rpa"
+version = "0.1.0"
+description = "Idempotent form intake and RPA submission queue"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest>=8.3,<9"]
+
+[project.scripts]
+form-rpa = "form_rpa.cli:main"

@@ -1,0 +1,7 @@
+{
+  "name": "form-rpa-automation",
+  "private": true,
+  "type": "module",
+  "engines": {"node": ">=20"},
+  "dependencies": {"playwright": "^1.48.0"}
+}
